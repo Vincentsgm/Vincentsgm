@@ -2,13 +2,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincentsgm" alt="vincentsgm" /></a> </p>
 
-- 🌱 I’m currently learning **DSharp+**
+- 🌱 I’m currently learning **Blender**
 
 - 💬 Ask me about **GTA 5 coding**
 
 - 📫 How to reach me **https://discord.gg/g82638j**
 
-- 📄 Know about my experiences [Former engineering student](Former engineering student)
+- 📄 Know about my experiences: Former engineering student
+
+- 💬 Languages: French, English, German, Spanish, Portuguese
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
